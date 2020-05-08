@@ -7,6 +7,7 @@ sections:
 - type: jekyll-pages
   label: Jekyll
   create: all
+  new_doc_ext: ".md"
 - type: document
   path: FORESTRY-README.md
   label: Welcome - First Steps
